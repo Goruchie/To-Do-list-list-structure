@@ -43,8 +43,6 @@ Functioning computer Internet connection Basic understanding of Git and GitHub.
 
 - Node.js
 
-[Live Demo Link](https://livedemo.com)
-
 ## Authors
 
 👤 **Marcos Gualtero Lourenzo**
