@@ -14,34 +14,34 @@ In this project, I built a simple HTML list of To Do tasks. This simple web page
 
 ## Getting Started
 
+1 - Above the list of files, click on the "Code" button
+
+2 - Copy the URL for the repository.
+
+3 - To clone the repository using HTTPS, under "HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click . To clone a repository using GitHub CLI, click GitHub CLI, then click . The clipboard icon for copying the URL to clone a repository with GitHub CLI
+
+4 - Open Git Bash.
+
+5 - Change the current working directory to the location where you want the cloned directory.
+
+6 - Type git clone, and then paste the URL you copied earlier.
+
+7 - Press Enter to create your local clone.
+
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-- Computer
-- Code editor (Vs code)
+- Installation of Node.js, Node Package Manager, webpack module bundler
+Functioning computer Internet connection Basic understanding of Git and GitHub.
 
 ### Setup
-- clone 'https://github.com/Balikuddembe/Awesome-Books.git'
-  
-- Setup Linters by running following commands in your terminal:
+[The setup of webpack](https://webpack.js.org/guides/getting-started/)
 
-- npm install --save-dev stylelint@13.x stylelint-scss@3.x - - - stylelint-config-standard@21.x stylelint-csstree-validator@1.x (Install the StyleHint linters)
+### Install
 
-- npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
+- A code editor (e.g. VSC) /text editor (e.g. notepad++)
 
-- npx stylelint "*/.{css,scss}" (checks for the CSS related errors in your project)
-
-- npx stylelint "*/.{css,scss}" --fix (This will fix the linters error, if any)
-
-- npm install --save-dev hint@7.x (Install the WebHint Linters)
-
-- Run npx eslint . on the root of your directory of your project.
-
-- npx hint . (You should see Finishing... on your terminal)
-
-- install node.js
-
-- install webpack
+- Node.js
 
 [Live Demo Link](https://livedemo.com)
 
