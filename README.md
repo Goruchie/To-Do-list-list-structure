@@ -1,6 +1,6 @@
 # To Do List
 
-I creted my website in To do list. Now my website is very simple, but in the next project I will add the more functions-
+In this project, I built a simple HTML list of To Do tasks. This simple web page will be built using webpack and served by a webpack dev server.
 
 
 ## Built With
@@ -14,15 +14,13 @@ I creted my website in To do list. Now my website is very simple, but in the nex
 
 [Live Demo Link](https://livedemo.com)
 
-
-
 ## Authors
 
-👤 **Lucca Micale**
+👤 **Marcos Gualtero Lourenzo**
 
-- GitHub: [@luccamicale]
-- Twitter: [@luccamicale_]
-- LinkedIn: [luccamicale]
+- GitHub: [https://github.com/Goruchie]
+- Twitter: [https://twitter.com/Goruchie2]
+- LinkedIn: [https://www.linkedin.com/in/marcos-gualtero-a2aa35246/]
 
 ## 🤝 Contributing
 
